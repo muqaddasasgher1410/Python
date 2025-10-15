@@ -1,0 +1,7 @@
+Account_type = "Saving"
+owner = "Ali"
+account_no =  S-123
+balance = 1000
+interest_rate =  2
+loan_limit = 1000
+fees = 2000
